@@ -16,7 +16,7 @@ Install with python
 3. Buka Bot TimeFarm di PC (Telegram Desktop)
 4. Jika sudah terbuka > Klik kanan Inspect
 5. Di Network > GetGameInfo > ambil bagian Token nya
-6. Paste di query.txt
+6. Paste di tokens.txt
 7. python yescoin.py
 
 
